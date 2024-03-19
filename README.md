@@ -20,3 +20,8 @@ Milvus offers different deployment options to suit different needs. For a lightw
 ### Milvus with Docker/ Docker Compose
 For more robust needs, Milvus can be deployed using Docker Compose, as it is a distributed system. 
 The docker compose file is available on the [Install Milvus Standalone page](https://milvus.io/docs/install_standalone-docker-compose.md) and the [Milvus GitHub]([Milvus](https://github.com/milvus-io/milvus)). When you spin up Milvus with Docker Compose by running `docker compose up -d`, you will see three containers and connect to Milvus through port `19530` by default.
+
+## Install dependencies
+
+Make sure you have [Poetry installed](https://python-poetry.org/docs/#installing-with-pipx), then install the different dependencies with `poetry install`. 
+You can also do it directly from the Notebook 😊
