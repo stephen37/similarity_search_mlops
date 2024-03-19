@@ -1,0 +1,233 @@
+title,date,content
+MLOps.community Berlin Meetup 05,"Thursday, September 14, 2023","Details
+Hello Community!
+
+Get your calendars marked for the 14th of September as we come together for a new edition of our MLOps.community Berlin Meetup at GetYourGuide.
+
+We will have 2 main talks, multiple lightning talks and a trivia quiz in which you can win cool prizes! Make sure to be on time (see agenda below) to take part in the trivia.
+
+📌 Meetup Speakers:
+
+1️⃣ Ekin Karabulut - GPU: ‘Greatly Problematic Units’? - Tales from the Trenches of Resource Allocation
+
+About the talk: In the realm of AI, GPUs play a crucial role in data science projects. Yet, squeezing the most out of them is a challenge, particularly for data scientists with limited resources and time. This talk explores the often-overlooked world of GPU orchestration and allocation with a dash of humour. We’ll address common mistakes like underutilization, static assignments, and resource sharing pitfalls. Introducing Genv, an open-source tool, we’ll transform these challenges into opportunities for seamless and efficient AI workflows.
+
+About Ekin: Meet Ekin, a passionate data scientist, and GPU enthusiast. During her Master’s studies, Ekin dove into the privacy implications of federated learning with deep neural networks while also gaining practical experience as a data scientist. Through her journey, she observed inefficiencies in GPU usage both in the research and industry settings. As a Data Scientist at Run:ai she thus established the “AI Infrastructure Club” Discord server - to discuss all things GPU-related, exchange ideas, and support each other in making the most out of GPUs. To further streamline GPU usage for data scientists, Ekin and the Run:ai team actively work on “Genv,” a fully open-source project to use and share GPUs efficiently.
+
+2️⃣ Andrei Vishniakov - Craft, Scale, Win: Your ML Platform Journey!
+
+About the talk: Many companies at some point face a need to have some ML Platform to accelerate ML adoption. How can you get one and make sure your team can maintain it in the long run? This talk will give you a practical guide on how to approach ML Platform building: What options do we have, and what are the drawbacks? How do you ensure the stability of your ML Platform in a world where new MLOps tools pop up every week and make your ML Platform usable by Data Scientists?
+
+About Andrei: Andrei is a Machine Learning Engineer based in Berlin with a strong passion for building ML Platforms at scale. Having 10+ years of industry experience in total and 5+ years solely building ML Platform Solutions. His experience as a “Full Stack Data Scientist” helps a lot to feel platform users’ pain points and help solve them. Currently, he's working on making MLOps simple for all at ZenML (a startup from Munich). Previously he worked at HelloFresh, one of the biggest Meal Kit delivery companies in the world, where he was building an ML Platform for Data Science, Data Engineering, and Data Analytics teams from scratch.
+
+The complete meetup agenda is the following:
+
+6:00 pm - Open the doors & Food
+
+6:30 pm - Trivia quiz
+
+7:00 pm - Talk 1️⃣
+
+7:30 pm - Break
+
+7:50 pm - Talk 2️⃣
+
+8:20 pm - Lightning talks (5 min each)
+
+Lightning Talk 1: Martin Jewell (MLOps Engineer at GetYourGuide) - Branch-based Model Experimentation
+
+Lightning Talk 2: Nick Jetten (Co-founder/CEO Enjins, co-founder Deeploy) - Productionizing ML in a Scale-up Setting
+
+8:45 pm - Socialize
+
+We are looking forward to seeing you there!
+
+🔒 Code of Conduct: Please familiarize yourself with our Code of Conduct before attending the event. We strive to create an inclusive and respectful environment for all participants. By joining us, you agree to abide by the guidelines outlined in our Code of Conduct. You can find it here."
+MLOps.community Berlin 04: Pre-event Women+ In Data and AI Festival,"Thursday, June 29, 2023","Details
+Hello Community!
+
+Get your calendars marked for the 29th and the 30th of June as we come together for a special edition of our MLOps.community Berlin at Thoughtworks. This event is warm-up event for the Women+ In Data and AI festival, if you love this meetup, you gonna love this festival, check out their sessions :). You will be able to meet many thought leaders in both events, read on!
+
+📌 Meetup Speakers:
+1️⃣ Fiona Coath: Fiona will be presenting her insightful talk on ""Meet the people fighting surveillance capitalism."" Delve into the world of digital privacy, and learn how valiant efforts are being made to combat the rising tide of surveillance capitalism.
+
+2️⃣ Magdalena Stenius: Magdalena's talk will take you through ""Understanding the Carbon Footprint of Machine Learning."" Join us to comprehend the environmental impact of ML and how we can work towards more sustainable practices.
+
+The complete meetup agenda is the following:
+
+6:00 pm - Open the doors & Food
+7:00 pm - Talk 1
+7:30 pm - Break
+7:50 pm - Talk 2
+8:20 pm - Lightning talks (5 min each)
+LT 1: LLMs for Content Filtering - Meghana Satish
+LT 2: The Importance of Failure, The Culture, The Mindset, The Systems Architecture and Why Crazy Monkeys Are Our Best Friends - Miriam Bressan
+8:45 pm - Socialize
+We are looking forward to seeing you there!
+
+🔒 Code of Conduct: Please familiarize yourself with our Code of Conduct before attending the event. We strive to create an inclusive and respectful environment for all participants. By joining us, you agree to abide by the guidelines outlined in our Code of Conduct. You can find it here."
+[In-person] Vector DB & LLM Hackathon,"Saturday, June 17, 2023","Details
+Join us on Saturday, June 17 in Berlin for an all-day Vector DB & LLM Hackathon with the MLOps.community and Weaviate using a large corpus of community Slack and Videos! We'll also be hosting a welcome BBQ on Friday, June 16th.
+
+You can register for both events here (spots will not be held for those who only register through meetup.com)
+
+💪 Collaborate with and learn from other like-minded MLOps practitioners in AI, ML, and Data Science industries.
+
+💻 Get access to tools and credits from Weaviate to build end-to-end solutions.
+
+👨🏻‍💻 Get support in-person from Weaviate engineers – who will help you go from 0 to 100 in no time.
+
+💰 Chance to win cash prizes!
+
+📣 Selected teams will be invited to share their solutions at an upcoming Berlin MLOps Community meetup
+
+🦾 Intro:
+Vector embeddings generated by LLMs – like those provided by OpenAI, Cohere, Hugging Face, and Google PaLM, or those you may fine-tune yourself – opened up a world of possibilities in how we understand and query our data.
+
+Combine this with Weaviate – an AI-native vector database – and you have a recipe for running LLMs at a scale of millions or even billion data objects.
+
+🦾 The Challenge(s):
+Now the question (and the challenge) is:
+
+“What can you build with a dataset + LLM + vector database in a day?”
+
+Option 1 – MLOps community Slack search
+MLOps.community is a 17K+ member community, primarily online in a thriving slack channel and through virtual and in-person events. There is a lot of tribal knowledge in the community where experts answer questions from other MLOps practitioners in Slack and via in-person meetups and online videos. We want you to build an LLM-powered application (Web/Mobile/Slack) to answer MLOps and other ML/DS/AI questions that community members may have using the historical knowledge in Slack, videos, etc. For example - you may implement the solution as a chatbot that uses embeddings and a vector datastore to generate the answers.
+
+Option 2 – bring your own use case
+Bring in your own data and a use case – that you were itching to build but never had the time for.
+We will help you generate vector embeddings***** and show you how to query your data******. Then you will be able to focus on building the rest of the app to impress us all.
+****** if you already have vector embeddings for your data ready, that is cool too – we will show you how to load your data with your embeddings.* ******warning: you may be surprised how little code it takes to do it all.
+
+🔨 What you’ll be building:
+We’d love to see your creativity in designing your LLM Stack and showcase how useful your app can be to help MLOps practitioners learn from the experience of others. We encourage participants to discover, experiment, and build high-impact solutions using the dataset during this hackathon, and improve their skills to build powerful LLM Stacks! That being said, here are a few dimensions you could consider when creating your LLM
+
+Stack solution:
+
+Correctness of the answers (and explainability/citations)
+LLM chains
+Data pipelines
+User Interfaces
+System Design tradeoffs
+Security
+Bonus points for transparently sharing your solution so that the community can learn (e.g. OSS, documentation, etc.)
+etc.
+💽 The Data:
+
+Slack data from public MLOps Community channels
+Transcripts of videos from MLOps.community Youtube page
+Other data from the communities’ past events, blogs, etc. (make sure you share the sources used)
+Starter Kit
+🗺️ Location:
+
+42 Berlin (exact location will be shared with participants on sign-up)
+💫 Why we’re having this hackathon: As part of enhancing our community, we are looking to provide the opportunity to our members and other participants to learn to improve their knowledge on building LLM-powered solutions to a common problem of knowledge discovery by designing and building an app that uses LLMs to answer community member questions, just like the human experts.
+
+Here’s everything you need to know to get started:
+👷 You can work individually or in groups of up to 4 people
+🔨 You can use any Open Source tools to build your solutions and your code need not be open-source.
+💽 The data provided for the purposes of this hackathon is under the CC-BY-NC 4.0 license, intended for non-commercial use only.
+📅 Projects should be started at the event kick-off to maintain fairness across projects
+🔢 Credits: To be announced.
+💸 Cash prizes: To be announced.
+💫 Looking for creative solutions in the LLM App Stack (UI, System Design, Microservices) that solve real-world problems using emergent LLM technologies."
+MLOps.community Berlin Meetup 03,"Thursday, February 2, 2023","Details
+Hello Community!
+
+On February 2nd we will have the third MLOps.community meetup in Berlin \0/. It will consist of 2 main talks, a couple of lighting talks and time to socialize (food and drinks included) :). The event will take place in Google's office in Tucholskystraße 2 10117 Berlin - where we have a capacity limit of 150 people so please confirm your seat in advance.
+
+This time we are hosting 2 main talks.
+
+It's a pleasure to receive Steffen Klempau - he will be talking about a hackathon at scale he organized. Steffen is a MLE at Capgemini in Berlin. He has worked in different roles at various clients for Capgemini and, prior to that, as a data engineer in a mid-sized company. He was the lead architect for the GDSC and was the one constantly telling everyone they won’t get a bigger GPU.
+
+About Steffen's talk: The Global Data Science Challenge (GDSC) is an annual event hosted by Capgemini. The goal of the 2022 challenge was helping to fight river blindness which is affecting millions of people. To combat the disease, multiple drug candidates are currently undergoing clinical trials. Unfortunately, evaluating drug efficiency is a manual process that can only be done by a few experts. GDSC participants this year teamed up to create an AI-based solution to automate the process. To host the challenge, Capgemini partnered with AWS to provide an environment that would allow roughly 1,000 users to collaboratively train ML models on GPUs. At this scale, distributing capacities, securing the data, and managing costs are complex problems. This talk covers how they tackled these problems and what they’ve learned.
+
+Our second talk will be about adopting mlops across multiple teams and products at GetYourgGuide, with Jean Machado and Mathieu Bastien.
+
+Mathieu is a Director of Data Products at GetYourGuide, in charge of all the applied ML. Formerly was part of LinkedIn’s Data Science team and co-founded the open-source graph visualisation software Gephi.
+
+Jean is a MLOps engineer and the Lead for the Machine Learning Platform team at GetYourGuide. In GetYourGuide he supports data scientists, analysts, and engineers with tooling and automation to build production-grade machine learning. Jean's has a major hobby with automation, and is excited about what machine learning and automation can do for society.
+
+About their talk: Putting ML into production is hard, but what happens once you have dozens of ML models into production? How to keep creating product improvements while also caring about cross-teams ML systems good practices? In this talk we will present some of GetYourGuide’s learnings regarding ML systems operations with concrete examples of projects and strategies that worked for us.
+
+The complete agenda is the following:
+
+6:00 pm - Open the doors & Food
+7:00 pm - Steffen's Talk
+7:30 pm - Break
+7:50 pm - Jeans & Mathieu's talk
+8:20 pm - Lightning talks (5 min each)
+8:35 pm - Socialize
+If you are interested in giving a lightning talk, fill up the signup form on Meetup.com while confirming your attendance.
+Lightning talk inspiration (thanks to MLOps.community Amsterdam):
+
+What are you working on?
+What do you (not) like about a particular MLOps tool?
+Why do you think XYZ is over/underrated?
+What are your takeaways from a book or paper you read?
+What concept or idea are you excited about?
+Did you discover any neat software packages recently?
+Do you have any great MLOps productivity tips?
+MLOops! -- Do you have any personal stories on ML gone wrong?"
+MLOps.community Berlin Meetup 02,"Thursday, October 6, 2022","Details
+Hello Community!
+
+On October 6th we will have the second MLOps.community meetup in Berlin! It will consist of one main talk, a couple of lighting talks and time to socialize (food and drinks included) :). The event will take place in Wolt's office in Stralauer Allee 6, 10245 Berlin - where we have a capacity limit of 150 people so please confirm your seat in advance.
+
+As our main speaker, it's a pleasure to receive Lina Weichbrodt - she will be talking about ML Monitoring. Lina has 10+ years of industry experience in developing scalable machine learning models and bringing them into production. She currently works as a Machine Learning Freelancer. She previously worked at Zalando, one of Europe’s biggest online fashion retailers, where she developed real-time, deep learning personalization models for more than 32M users and the German bank DKB.
+
+About Lina's talk:
+Traditional software monitoring best practices are not enough to detect problems with machine learning stacks. How can you detect issues and be alerted in real-time? This talk will give you a practical guide on how to do machine learning monitoring: which metrics should you implement and in which order? Can you use your team’s existing monitoring and dashboard tools, or do you need an MLOps Platform?
+
+The complete agenda is the following:
+6:00 pm - Open the doors & Food
+6:20 pm - Bonding activity with a secret prize!
+7:00 pm - Main talk
+7:35 pm - Q&A
+7:45 pm - Break
+7:50 pm - Lightning talks (5 min each)
+8:15 pm - Socialize
+
+If you are interested in giving a lightning talk, fill up the signup form on Meetup.com while confirming your attendance.
+Lightning talk inspiration (thanks to MLOps.community Amsterdam):
+
+What are you working on?
+What do you (not) like about a particular MLOps tool?
+Why do you think XYZ is over/underrated?
+What are your takeaways from a book or paper you read?
+What concept or idea are you excited about?
+Did you discover any neat software packages recently?
+Do you have any great MLOps productivity tips?
+MLOops! -- Do you have any personal stories on ML gone wrong?
+This meetup is in collaboration with neptune.ai"
+First MLOps.community Berlin Meetup,"Thursday, June 30, 2022","Details
+Hello community,
+
+On June 30th we will have the first MLOps.community meetup in Berlin! It will consist of one main talk, a couple of lighting talks and time to socialize (food and drinks included) :). The event will take place in the GetYourGuide’s office in Sonnenburger Str. 73, 10437 Berlin - where we have a capacity limit of 80 people so please confirm your seat in advance.
+
+As our main speaker, its a pleasure to receive Stephen Batifol from Wolt who will be talking about Scaling Open-Source Machine Learning. From Android developer to Data Scientist to Machine Learning Engineer, Stephen has a wealth of software engineering experience at Wolt. He believes that machine learning has a lot to learn from software engineering best practices and spends his time making ML deployments simple for other engineers.
+
+And Stephen's talk:
+Forecasting supply and demand, serving restaurant recommendations and predicting delivery times. These are just a few examples of how Machine Learning is being applied at Wolt. Now with over 12 million users, scaling the ML infrastructure has been a significant challenge. This talk will highlight those challenges and how they were addressed by building an end to end MLOps platform on Kubernetes. You'll learn about the open source frameworks that Wolt integrated, specifically Flyte, MLFlow and Seldon Core.
+
+The complete agenda is the following:
+
+6:00 pm - Open the doors & Pizza
+7:00 pm - Stephen's talk
+7:35 pm - Q&A
+7:45 pm - Break
+7:50 pm - Lightning talks (5 min each)
+20:15 pm - Socialize
+
+If you are interested in giving a lightning talk, fill up the signup form on Meetup.com while confirming your attendance.
+Lightning talk inspiration (tanks to MLOps.community Amsterdam):
+
+What are you working on?
+What do you (not) like about a particular MLOps tool?
+Why do you think XYZ is over/underrated?
+What are your take-aways from a book or paper you read?
+What concept or idea are you excited about?
+Did you discover any neat software packages recently?
+Do you have any great MLOps productivity tips?
+MLOops! -- Do you have any personal stories on ML gone wrong?
+This meetup is in collaboration with neptune.ai"
